@@ -46,6 +46,7 @@
 - [Five Nights at Freddy's World: Refreshed](https://github.com/web-ports/fnaf-world-refreshed) - port by [Willowy](squall.cc)
 - [Getting Over It](https://github.com/genizy/web-port/tree/main/getting-over-it) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Gorilla Tag](https://github.com/web-ports/gorilla-tag), [2](https://github.com/aukak/gorrila-tag) - port by [boolonx dot com](https://boolonx.com/)
+- [Granny](https://github.com/aukak/Granny) - port by [bog/aukak](https://github.com/aukak)
 - [GTA Vice City](https://github.com/Lolendor/reVCDOS) - port by the [DOS.Zone team](dos.zone/reVCDOS)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98cornbin.netlify.app)
