@@ -34,6 +34,7 @@
 - [Dumb Ways to Die (v1.6)](https://github.com/web-ports/dumb-ways-to-die) - port by [bread](https://github.com/genizy)
 - [Feat and Hunger](https://github.com/web-ports/fear-and-hunger)
 - [Fears to Fathom: Home Alone](https://github.com/slqntdevss/FTFHAPort) - Ported by [slqnt](https://github.com/slqntdevss)
+- [fish](https://github.com/web-ports/fish) - port by [bread](https://github.com/genizy)
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Candy's 1](https://github.com/web-ports/fnac/tree/main/1) - Ported by [breadbb](https://gn-math.dev)
 - [Five Nights at Candy's 2](https://github.com/web-ports/fnac/tree/main/2) - Ported by [breadbb](https://github.com/genizy)
