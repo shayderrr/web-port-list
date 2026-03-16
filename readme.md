@@ -105,11 +105,13 @@
 - [Touhou Mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) - Ported by [bog/aukak](https://github.com/aukak)
 - [Traffic Racer](https://github.com/genizy/traffic-racer) - port by [bread](https://github.com/genizy)
 - [Ultrakill Prelude](https://github.com/genizy/web-port/tree/main/ultrakill) - Ported by [98Corbins](https://98cornbin.netlify.app)
+- [Ultrapool](https://github.com/ParrrotVR/ultrapoolwebport), [bread fork](https://github.com/genizy/ultrapoolwebport-nothreads) - port by [ParrrotVR](https://github.com/ParrrotVR), fixed by [bread](https://github.com/genizy)
 - [Undertale](https://github.com/genizy/web-port/tree/main/undertale) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Undertale Yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Unreal Gold](https://github.com/National-Porting-Association/unrealgold-emscripten) - ported by Ashen Arrow
 - [Untitled Goose Game](https://github.com/web-ports/untitled-goose-game), [2](https://github.com/webporting/Untitled-Goose-Game) - port by [bog/aukak](https://github.com/aukak)
 - [Webfishing](https://github.com/genizy/web-port/tree/main/web-fishing) - Ported by [bread](https://github.com/genizy)
+- [Witch's Heart](https://github.com/genizy/web-port/tree/main/witch-heart) - port by [bread](https://github.com/genizy)
 - [Xash3D](https://github.com/btarg/Xash3D-Emscripten) - port by mittorn
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [bread](https://github.com/genizy)
 
