@@ -88,7 +88,7 @@
 - [Scoutdingo](https://github.com/web-ports/scoutdingo) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Shift at Midnight](https://github.com/webporting/Shift-At-Midnight) - ported by the [webport.ing team](https://webport.ing)
 - [Slender: The Eight Pages](https://github.com/genizy/web-port/tree/main/slender) - Ported by [bread](https://github.com/genizy)
-- [Slime Ranchers](https://github.com/web-ports/slime-ranchers), [2](./method/sr/image.png) - port by [snubby](https://snubby.top)
+- [Slime Ranchers](https://github.com/web-ports/slime-ranchers) - port by [snubby](https://snubby.top)
 - [Something](https://github.com/gays-studio/nothing-wasm-web) - ported by [aj](https://github.com/ajtabjs)
 - [Sonic CD](https://github.com/TWS2401/Sonic-CD-WASM) - port by [TWS2401](https://github.com/TWS2401)
 - [Sonic the Hedgehog (2013)](https://github.com/VinMannie/Sonic-1-WASM) - ported by [MattConn](github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
