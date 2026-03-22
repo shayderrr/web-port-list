@@ -5,11 +5,12 @@
 - [Antonblast](https://github.com/web-ports/antonblast) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](github.com/genizy)?
 - [Balatro](https://github.com/W0W53R/web-balatro) - port by [W0W53R](https://github.com/W0W53R)
+- [Baldi's Basics Birthday Bash](https://github.com/woahhcrackers/BirthdayBashWeb) - port by [crackers](https://github.com/woahhcrackers)
 - [Baldi's Basics Classic Remastered](https://github.com/genizy/web-port/tree/main/baldi-remaster) - Ported by [koi/_flixel](https://oldgrounds.xyz/)
 - [Baldi's Basics Plus](https://github.com/genizy/web-port/tree/main/baldi-plus) - Ported by [koi/_flixel](https://oldgrounds.xyz/)
 - [Bat to Bed Demo](https://github.com/gays-studio/BatToBed-DEMO-webport) - port by [aj](https://github.com/ajtabjs)
 - [Bat to the Heavens](https://github.com/gays-studio/bat-to-the-heavens)- port by [aj](https://github.com/ajtabjs)
-- [Bendy and The Ink Machine](https://github.com/genizy/web-port/tree/main/bendy), [2](https://github.com/web-ports/bendy-and-the-ink-machine) - Ported by [98Corbins](https://98cornbin.netlify.app)
+- [Bendy and The Ink Machine][https://github.com/woahhcrackers/BATIMWeb], [2](https://github.com/genizy/web-port/tree/main/bendy), [3](https://github.com/web-ports/bendy-and-the-ink-machine) - Ports by [98Corbins](https://98cornbin.netlify.app), crackers and slant
 - [BERGENTRUCK 201x](https://github.com/genizy/web-port/tree/main/bergentruck) - Ported by [bread](https://github.com/genizy)
 - [BLOODMONEY!](https://github.com/genizy/web-port/tree/main/bloodmoney) - Ported by [bread](https://github.com/genizy)
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
