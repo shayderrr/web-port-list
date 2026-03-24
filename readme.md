@@ -13,6 +13,7 @@
 - [Bendy and The Ink Machine][https://github.com/woahhcrackers/BATIMWeb], [2](https://github.com/genizy/web-port/tree/main/bendy), [3](https://github.com/web-ports/bendy-and-the-ink-machine) - Ports by [98Corbins](https://98cornbin.netlify.app), [crackers](https://github.com/woahhcrackers) and [slant](https://github.com/slqntdevss)
 - [BERGENTRUCK 201x](https://github.com/genizy/web-port/tree/main/bergentruck) - Ported by [bread](https://github.com/genizy)
 - [BLOODMONEY!](https://github.com/genizy/web-port/tree/main/bloodmoney) - Ported by [bread](https://github.com/genizy)
+- [boil Noodles at Night](https://github.com/SomeRandomFella/portsandrips/tree/master/boilnoodles) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
 - [Brotato](https://github.com/BlueGameMC/BrotatoWeb), [2](https://github.com/gays-studio/brotato-webport/), [3](https://github.com/wowdabug/s1/tree/main/brotato) - ported by [BlueGameMC](https://github.com/BlueGameMC)
 - [Cheese Rollers](https://github.com/SomeRandomFella/portsandrips/tree/master/CheeseRollingWeb) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
@@ -24,8 +25,10 @@
 - [Celeste](https://github.com/MercuryWorkshop/celeste-wasm), [2](https://github.com/web-ports/celeste) - port by [Mercury Workshop](https://github.com/MercuryWorkshop), modified by [bread](https://github.com/genizy)
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
 - [Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
+- [Dawnfolk](https://github.com/degloved-net/dawnfolk) - port by cirsius
 - [Deltarune](https://github.com/genizy/web-port/tree/main/deltarune) - Ported by [bread](https://github.com/genizy)
 - [Deltarune Chapters 3 & 4](https://aukak.itch.io/deltarune) - ported by [bog/aukak](https://github.com/aukak)
+- [Dice a Million](https://github.com/NotRexed/Unblocked-Games/tree/main/diceamillion) - port by [NotRexed](https://github.com/NotRexed)
 - [Doki Doki Literature Club](https://github.com/EmeraldGreenR/EmeraldGreenR.github.io) - Ported by [EmeraldGreenR](https://github.com/EmeraldGreenR/)? 
 - [Doki Doki Literature Club Plus!](https://selenite.cc/resources/semag/ddlcplus/index.html) - port by [sky](https://github.com/skysthelimitt)
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [bread](https://github.com/genizy)
@@ -55,6 +58,7 @@
 - [Granny](https://github.com/web-ports/granny),[2](https://github.com/aukak/Granny), [3](https://github.com/woahhcrackers/GrannyWeb) - ports by [bread](https://github.com/genizy), [bog/aukak](https://github.com/aukak), crackers
 - [GTA Vice City](https://github.com/Lolendor/reVCDOS) - port by the [DOS.Zone team](dos.zone/reVCDOS)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
+- [HAYAI](https://github.com/degloved-net/HAYAI) - port by cirsius
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Hollow Knight](https://github.com/aukak/hollow-knight) - port by [bog/aukak](https://github.com/aukak)
 - [Iron Lung](https://github.com/web-ports/iron-lung) - port by [98Corbins](https://98cornbin.netlify.app)
@@ -71,6 +75,7 @@
 - [MiSide](https://github.com/woahhcrackers/MiSideWeb) - ported by [crackers](https://github.com/woahhcrackers)
 - [My Femboy Roommate](http://github.com/gays-studio/mfr-webport) - ported by [aj](https://github.com/ajtabjs) 
 - [Needy Streamer Overload](https://github.com/web-ports/needy-streamer-overload) - port by [edurocks](https://edurocks.org)
+- [Nodebuster](https://github.com/degloved-net/nodebuster) - port by cirsius
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web) - ported by [aj](https://github.com/ajtabjs)
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-web-port) - Ported by [bread](https://github.com/genizy)
 - Oneshot (Legacy) - ported by arandomperson
@@ -107,12 +112,15 @@
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [Touhou Mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) - Ported by [bog/aukak](https://github.com/aukak)
 - [Traffic Racer](https://github.com/genizy/traffic-racer) - port by [bread](https://github.com/genizy)
+- [TriZon](https://github.com/degloved-net/trizon) - port by cirsius
 - [Ultrakill Prelude](https://github.com/genizy/web-port/tree/main/ultrakill) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Ultrapool](https://github.com/ParrrotVR/ultrapoolwebport), [bread fork](https://github.com/genizy/ultrapoolwebport-nothreads) - port by [ParrrotVR](https://github.com/ParrrotVR), fixed by [bread](https://github.com/genizy)
 - [Undertale](https://github.com/genizy/web-port/tree/main/undertale) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Undertale Yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Unreal Gold](https://github.com/National-Porting-Association/unrealgold-emscripten) - ported by Ashen Arrow
 - [Untitled Goose Game](https://github.com/web-ports/untitled-goose-game), [2](https://github.com/webporting/Untitled-Goose-Game) - port by [bog/aukak](https://github.com/aukak)
+- [Upstream](https://github.com/degloved-net/upstream) - port by cirsius
+- [Void Whispers](https://github.com/degloved-net/void-whispers) - port by cirsius
 - [Webfishing](https://github.com/genizy/web-port/tree/main/web-fishing) - Ported by [bread](https://github.com/genizy)
 - [Witch's Heart](https://github.com/genizy/web-port/tree/main/witch-heart) - port by [bread](https://github.com/genizy)
 - [Xash3D](https://github.com/btarg/Xash3D-Emscripten) - port by mittorn
