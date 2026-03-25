@@ -23,6 +23,7 @@
 - [Counter Strike & Half Life](https://github.com/x8BitRain/webXash/), [2](https://github.com/Pixelsuft/hl) - port by [x8BitRain](https://github.com/x8BitRain)
 - [Cuphead](https://github.com/web-ports/cuphead/), [2](https://github.com/woahhcrackers/CupheadWeb) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
 - [Celeste](https://github.com/MercuryWorkshop/celeste-wasm), [2](https://github.com/web-ports/celeste) - port by [Mercury Workshop](https://github.com/MercuryWorkshop), modified by [bread](https://github.com/genizy)
+- [Crank It!](https://github.com/degloved-net/Crank-It) - port by cirsius
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
 - [Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Dawnfolk](https://github.com/degloved-net/dawnfolk) - port by cirsius
@@ -74,6 +75,7 @@
 - [Milk outside a bag of milk outside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/outside) - ported by [sky](https://github.com/skysthelimitt)
 - [Milkman Karlson](https://github.com/aukak/gameports/tree/main/milkman%20karlson) - Ported by [bog/aukak](https://github.com/aukak)
 - [MiSide](https://github.com/woahhcrackers/MiSideWeb) - ported by [crackers](https://github.com/woahhcrackers)
+- [My Dictator Stalin Can't Be This Cute ?!](https://github.com/degloved-net/my-dictator-stalin-cant-be-this-cute) - port by cirsius
 - [My Femboy Roommate](http://github.com/gays-studio/mfr-webport) - ported by [aj](https://github.com/ajtabjs) 
 - [Needy Streamer Overload](https://github.com/web-ports/needy-streamer-overload) - port by [edurocks](https://edurocks.org)
 - [Nodebuster](https://github.com/degloved-net/nodebuster) - port by cirsius
