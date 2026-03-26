@@ -63,7 +63,7 @@
 - [HAYAI](https://github.com/degloved-net/HAYAI) - port by cirsius
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Hollow Knight](https://github.com/aukak/hollow-knight) - port by [bog/aukak](https://github.com/aukak)
-- [Hollow Knight: Silksong](https://github.com/web-ports/hollow-knight-silksong)
+- [Hollow Knight: Silksong](https://github.com/web-ports/hollow-knight-silksong), (2)[https://github.com/webporting/Hollow-Knight-Silksong]
 - [Iron Lung](https://github.com/web-ports/iron-lung) - port by [98Corbins](https://98cornbin.netlify.app)
 - [Jelly Drift](https://github.com/genizy/web-port/tree/main/jelly-drift) - port by [bread](https://github.com/genizy)
 - [JENNY](https://github.com/MRVAPORWAVE25/JennyGameFiles) - ported by [NotDaniel](https://github.com/MRVAPORWAVE25)
@@ -128,7 +128,7 @@
 - [Webfishing](https://github.com/genizy/web-port/tree/main/web-fishing) - Ported by [bread](https://github.com/genizy)
 - [Witch's Heart](https://github.com/genizy/web-port/tree/main/witch-heart) - port by [bread](https://github.com/genizy)
 - [Xash3D](https://github.com/btarg/Xash3D-Emscripten) - port by mittorn
-- Your Only Move is Hustle (demo) - port by bog
+- [Your Only Move is Hustle](https://github.com/webporting/Your-Only-Move-Is-HUSTLE) - port by [bog/aukak](https://github.com/aukak)
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [bread](https://github.com/genizy)
 
 <!-- # decomps
