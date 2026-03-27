@@ -35,7 +35,7 @@
 - [Doki Doki Literature Club Plus!](https://selenite.cc/resources/semag/ddlcplus/index.html) - port by [sky](https://github.com/skysthelimitt)
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [bread](https://github.com/genizy)
 - [Doom Engine](https://github.com/GMH-Code/Dwasm) - port by [GMH-Code](https://github.com/GMH-Code)
-- [Doom 3](https://github.com/gabrielcuvillier/d3wasm) - Ported by [gabrielcuvillier](https://github.com/gabrielcuvillier/d3wasm)
+- [Doom 3](https://github.com/web-ports/doom-3) [original](https://github.com/gabrielcuvillier/d3wasm) - Ported by [98corbins](https://98cornbin.netlify.app), [gabrielcuvillier](https://github.com/gabrielcuvillier)
 - [Duck Life Adventure](https://github.com/aukak/duck-life-adventure), [2](https://github.com/web-ports/duck-8) - Ported by [bog/aukak](github.com/aukak)
 - [Dumb Ways to Die (v1.6)](https://github.com/web-ports/dumb-ways-to-die) - port by [bread](https://github.com/genizy)
 - [Feat and Hunger](https://github.com/web-ports/fear-and-hunger)
