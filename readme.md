@@ -96,6 +96,7 @@
 - [RAFT](https://github.com/genizy/web-port/tree/main/raft) - Ported by Ashen Arrow
 - [R.E.P.O](https://github.com/genizy/web-port/tree/main/repo) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [RE:RUN](https://github.com/aukak/RE-RUN) - ported by [bog/aukak](https://github.com/aukak)
+- [Running Fred](https://github.com/aukak/running-fred) - port by [bog/aukak](https://github.com/aukak)
 - [Saihate Station](https://github.com/web-ports/saihate-station)
 - [Scoutdingo](https://github.com/web-ports/scoutdingo) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Shift at Midnight](https://github.com/webporting/Shift-At-Midnight) - ported by the [slqnt](https://github.com/slqntdevss)
